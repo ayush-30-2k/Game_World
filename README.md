@@ -1,0 +1,3 @@
+# Game_World
+It works only in Windows, and it uses dos....
+Use Turbo c++ Compiler to compile this code.
