@@ -1,3 +1,4 @@
+//Written by Ayush Mishra [Used in College Project]
 #include<conio.h>
 #include<stdio.h>
 #include<dos.h>
